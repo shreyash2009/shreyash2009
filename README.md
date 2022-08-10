@@ -10,24 +10,9 @@
 
 Tech Stack:-
 
-    - HTML 
-    -CSS
-    -JavaScript
-    -Bootstrap
-    -SCSS
-    -React.js
-    -Node.js
-    -Express.js
-    
-    -C
-    -C++
-    -Python
-    
-    -Git/GitHub
-    -Numpy
-    -seaborn
-    -Pandas
-    -Matplot
-    
+    - HTML                  -SCSS                   -C                      -Numpy
+    -CSS                    -React.js               -C++                    -Pandas
+    -JavaScript             -Node.js                -Python                 -Seaborn
+    -Bootstrap              -Express.js             -Git/GitHub             -Matplotlib
     
     
