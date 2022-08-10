@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there 👋  I'm Shreyash Chaple
 
-<!--
-**shreyash2009/shreyash2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on problem solving and an industry project
+- 🌱 I’m currently learning MERN and DBMS
+- 👯 I’m looking to collaborate on WebD projects
+- 🤔 I’m looking for help with React and other frontend libraries and frameworok
+- 📫 How to reach me:- Linkdin :- @Shreyash Chaple, Email:- shreyashchaple786oji@gmail.com
+- 😄 Pronouns: He/His
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack:-
+
+    - HTML 
+    -CSS
+    -JavaScript
+    -Bootstrap
+    -SCSS
+    -React.js
+    -Node.js
+    -Express.js
+    
+    -C
+    -C++
+    -Python
+    
+    -Git/GitHub
+    -Numpy
+    -seaborn
+    -Pandas
+    -Matplot
+    
+    
+    
